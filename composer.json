@@ -1,8 +1,8 @@
 {
-    "name": "greggilbert/recaptcha",
-    "description": "reCAPTCHA Validator for Laravel 4",
+    "name": "xavadu/recaptcha",
+    "description": "reCAPTCHA Validator for Laravel 4 | Fork",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel4"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/xavadu/recaptcha",
 	"license": "MIT",
     "authors": [
         {
